@@ -1,0 +1,31 @@
+body{
+    background-color: #6956ae;
+    color: white;
+    font-family: 'Montserrat';
+}
+
+header{
+    height: 130px;
+    width: 900px;
+    margin: auto;
+    border: 3px solid green;
+}
+
+.ipadred{
+    position: absolute;
+    left: -177px;
+    top: 50%;
+    margin-top: -250;
+}
+.camera{
+    position: absolute;
+    right: -180px;
+    top: 50%;
+    margin-top: -250;
+}
+.ipad{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -275px;
+}
